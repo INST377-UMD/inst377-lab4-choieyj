@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: blue;
+    transition: background-color 0.5s;
+}
+
+.section {
+    box-sizing: border-box;
+    border: 2px solid black;
+    float: left;
+    width: 50%;
+    height: 50%;
+}
+
+button {
+    margin-top: 10px;
+    cursor: pointer;
+}
